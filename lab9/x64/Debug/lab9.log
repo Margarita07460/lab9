@@ -1,0 +1,4 @@
+﻿  lab9.cpp
+C:\Users\Маргарита\Desktop\laba9\lab9\lab9.cpp(75,5): warning C4552: "+": результат выражения не используется
+C:\Users\Маргарита\Desktop\laba9\lab9\lab9.cpp(168,34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab9.vcxproj -> C:\Users\Маргарита\Desktop\laba9\lab9\x64\Debug\lab9.exe
